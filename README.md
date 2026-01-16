@@ -33,7 +33,4 @@ git push    // upload to drive(after commited, then type this, upload to github)
 */
 
 
-
-
-
 [PAPAYA 電腦教室]:https://youtu.be/FKXRiAiQFiY?si=kR1gyAg6EyfM8-n_
