@@ -26,7 +26,7 @@ git push    // upload to drive(after commited, then type this, upload to github)
 
 
 /*
-SETUP SETUP SETUP SETUP SETUP SETUP SETUP
+ＳＥＴＴＩＮＧ　ＵＰ
     git remote add origin https://github.com/  (repository 's web URL)
     git branch -M main
     git remote add origin https://github.com/  (repository 's web URL)
