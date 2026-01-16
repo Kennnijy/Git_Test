@@ -23,7 +23,7 @@ A   // has been added to the stage(staged)
 refer to the photo[File's_Status_In_Git.jpg]
 
 git push    // upload to drive(after commited, then type this, upload to github)
-
+git pull    // update the lastest version saved on github(may be mine or others)
 
 /*
 ＳＥＴＴＩＮＧ　ＵＰ
