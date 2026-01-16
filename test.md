@@ -1,0 +1,1 @@
+＃ＭＡＲＫＤＯＷＮ ｔｈｅ　ＳＴＵＦＦ (well, all the stuff must be in Half-width)
